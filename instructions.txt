@@ -1,0 +1,8 @@
+the usual env then pip install requirments.txt
+Then try running each.
+It is very intuitive to see what is happening.
+These files are good for fetching certain data specified as string or integer.
+
+I created portfolioetf.txt and some of the files to get the infor from that .txt file.
+Run each to see.
+Next to test if this can be converted to azure openai
